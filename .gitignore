@@ -4,3 +4,4 @@ __pycache__
 game_state.jsonl
 uv.lock
 pyproject.toml
+secure/
